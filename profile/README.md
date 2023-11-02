@@ -1,6 +1,6 @@
 ## ✌️ Hi! We're Noctis
 
-This organization was created to develop a mobile and web application that serves as a virtual movie shelf.
+This organization was created to develop a mobile and web application that serves as a virtual movie shelf. We also recommend new movies based on the user taste using our integration with OpenAI.
 
 ## 🤖 Technologies and resources used
 
@@ -8,12 +8,9 @@ This organization was created to develop a mobile and web application that serve
 - React
 - React Native
 - The Movie Database
+- Backend to integrate with OpenAI
 
-## 🎥 Results
-
-https://github.com/Noctis3/movie-shelf-web/assets/69818768/9e89d3d6-b35d-45c1-bd9d-8bc47ed073d0?open=false
-
-https://github.com/Noctis3/movie-shelf-mobile/assets/45675035/e9dbb85b-a61f-492b-b39d-500780d7cda7
+You can check how the project turned out in the pinned repositories below
 
 ## 🤝 Contribuitors
 
